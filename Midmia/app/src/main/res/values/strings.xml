@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Midmia</string>
+    <string name="mia_dialog_text">아이와 연결이 끊어졌습니다.\n아이의 위치를 알고 계십니까?</string>
+</resources>
